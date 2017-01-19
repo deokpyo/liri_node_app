@@ -1,0 +1,64 @@
+-------------LOGGED DATA: Wed Jan 18 2017 20:34:23 GMT-0600 (CST)-------------
+USER COMMAND: my-tweets
+My tweet: Came back to Twitter for my bootcamp assignment.. #utcodingbootcamp | Created at: Mon Jan 16 17:31:43 +0000 2017
+My tweet: Hello Twitter! #myfirstTweet | Created at: Mon Jan 16 17:30:51 +0000 2017
+My tweet: @lsemly 트윗터는아직익숙하지가않아ㅋㅋ | Created at: Sun Nov 07 19:41:37 +0000 2010
+-------------LOGGED DATA: Wed Jan 18 2017 20:34:25 GMT-0600 (CST)-------------
+USER COMMAND: spotify-this-song
+Artist(s): Ace of Base | Title: The Sign | Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null | Album: The Sign (US Album) [Remastered]
+Artist(s): Ace of Base | Title: The Sign | Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null | Album: Greatest Hits
+-------------LOGGED DATA: Wed Jan 18 2017 20:34:33 GMT-0600 (CST)-------------
+USER COMMAND: movie-this
+Movie Title: Mr. Nobody
+Year Released: 2009
+IMDB Rating: 7.9
+Country: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: 6.6
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+-------------LOGGED DATA: Wed Jan 18 2017 20:34:59 GMT-0600 (CST)-------------
+USER COMMAND: do-what-it-says
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null | Album: The Hits--Chapter One
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null | Album: Millennium
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null | Album: 90 Sweet 90s Hits!
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=null | Album: The Essential Backstreet Boys
+Artist(s):  Glee Cast | Title: Bye Bye Bye / I Want It That Way (Glee Cast Version) | Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=null | Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s):  Brittany Howard, Jim James | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null | Album: I Want It That Way
+Artist(s):  Anthem Lights | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=null | Album: Covers Part IV
+Artist(s):  Boyce Avenue | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=null | Album: New Acoustic Sessions, Vol. 3
+Artist(s):  Dynamite Boy | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/9d2f9eac900740ab86cd2bbb67872bf3440787db?cid=null | Album: Punk Goes Pop
+Artist(s):  "Weird Al" Yankovic | Title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) | Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=null | Album: The Essential Weird Al Yankovic
+Artist(s):  "Weird Al" Yankovic | Title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) | Preview Link: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=null | Album: Poodle Hat
+Artist(s):  Steel Panther | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f?cid=null | Album: I Want It That Way
+Artist(s):  Landon Austin & Julia Sheer | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=null | Album: I Want It That Way
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=null | Album: NKOTBSB
+Artist(s):  Scott Bradlee's Postmodern Jukebox, Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: Selfies on Kodachrome
+Artist(s):  Scott Bradlee's Postmodern Jukebox, Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: PMJ Is For Lovers: The Love Song Collection
+Artist(s):  FROIDZ | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=null | Album: I Want It That Way
+Artist(s):  Garrett Gardner | Title: I Want It That Way - The Voice Performance | Preview Link: https://p.scdn.co/mp3-preview/cd4996e962aa4e12dc9665a44357f9c708c17185?cid=null | Album: I Want It That Way (The Voice Performance)
+Artist(s):  Patent Pending | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b61cd8b0713737e9880d4fad71e4413c0d26736d?cid=null | Album: Spring Break '99
+Artist(s):  Kidz Bop Kids | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/d73fce47c7725de731bbaeab084a3edaaea8a6ee?cid=null | Album: Kidz Bop
+-------------LOGGED DATA: Wed Jan 18 2017 20:40:14 GMT-0600 (CST)-------------
+USER COMMAND: do-what-it-says
+Artist(s): Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null | Album: The Hits--Chapter One
+Artist(s): Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null | Album: Millennium
+Artist(s): Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null | Album: 90 Sweet 90s Hits!
+Artist(s): Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=null | Album: The Essential Backstreet Boys
+Artist(s): Glee Cast | Title: Bye Bye Bye / I Want It That Way (Glee Cast Version) | Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=null | Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s): Brittany Howard,Jim James | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null | Album: I Want It That Way
+Artist(s): Anthem Lights | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=null | Album: Covers Part IV
+Artist(s): Boyce Avenue | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=null | Album: New Acoustic Sessions, Vol. 3
+Artist(s): Dynamite Boy | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/9d2f9eac900740ab86cd2bbb67872bf3440787db?cid=null | Album: Punk Goes Pop
+Artist(s): "Weird Al" Yankovic | Title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) | Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=null | Album: The Essential Weird Al Yankovic
+Artist(s): Steel Panther | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f?cid=null | Album: I Want It That Way
+Artist(s): "Weird Al" Yankovic | Title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) | Preview Link: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=null | Album: Poodle Hat
+Artist(s): Landon Austin & Julia Sheer | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=null | Album: I Want It That Way
+Artist(s): Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=null | Album: NKOTBSB
+Artist(s): Scott Bradlee's Postmodern Jukebox,Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: Selfies on Kodachrome
+Artist(s): Scott Bradlee's Postmodern Jukebox,Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: PMJ Is For Lovers: The Love Song Collection
+Artist(s): FROIDZ | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=null | Album: I Want It That Way
+Artist(s): Garrett Gardner | Title: I Want It That Way - The Voice Performance | Preview Link: https://p.scdn.co/mp3-preview/cd4996e962aa4e12dc9665a44357f9c708c17185?cid=null | Album: I Want It That Way (The Voice Performance)
+Artist(s): Patent Pending | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b61cd8b0713737e9880d4fad71e4413c0d26736d?cid=null | Album: Spring Break '99
+Artist(s): Kidz Bop Kids | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/d73fce47c7725de731bbaeab084a3edaaea8a6ee?cid=null | Album: Kidz Bop
