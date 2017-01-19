@@ -1,13 +1,60 @@
--------------LOGGED DATA: Wed Jan 18 2017 20:34:23 GMT-0600 (CST)-------------
+-------------LOGGED DATA: Wed Jan 18 2017 23:08:26 GMT-0600 (CST)-------------
 USER COMMAND: my-tweets
+My tweet: RT @JLLLOW: Truth Coming Out of Her Well to Shame Mankind (1896) by Jean-Léon Gérôme https://t.co/OPlCxm3cJT | Created at: Thu Jan 19 05:06:27 +0000 2017
+My tweet: RT @_harukimurakami: Même les rencontres de hasard 
+sont dues à des liens noués 
+dans des vies antérieures. | Created at: Thu Jan 19 05:03:59 +0000 2017
+My tweet: RT @_harukimurakami: “Being alive, if you had to define it, meant emitting a variety of smells.” | Created at: Thu Jan 19 05:03:33 +0000 2017
+My tweet: RT @_harukimurakami: Now that you've said hello, I'm afraid we move right into farewells. Hello, goodbye. | Created at: Thu Jan 19 05:00:20 +0000 2017
+My tweet: RT @_harukimurakami: “Such perfect little circles are impossible to maintain.” | Created at: Thu Jan 19 04:59:12 +0000 2017
+My tweet: RT @_harukimurakami: “There is a slight difference between collecting fifty wine labels and collecting fifty pinball machines.”
+
+Pinball, 1… | Created at: Thu Jan 19 04:59:07 +0000 2017
+My tweet: RT @_harukimurakami: No good news in this chapter. | Created at: Thu Jan 19 04:58:59 +0000 2017
+My tweet: RT @_harukimurakami: “And so, on the surface at least, I had become an ordinary girl again.” | Created at: Thu Jan 19 04:58:56 +0000 2017
+My tweet: RT @_harukimurakami: “She was yours to begin with. Now, maybe, she's where she belongs.” | Created at: Thu Jan 19 04:58:49 +0000 2017
+My tweet: RT @_harukimurakami: “Somewhere, we were struck by lightning. But not the kind of lightning you can see or hear.” | Created at: Thu Jan 19 04:58:41 +0000 2017
+My tweet: RT @_harukimurakami: "I took a gamble and survived." | Created at: Thu Jan 19 04:58:35 +0000 2017
+My tweet: RT @error2046: "Does it get easier?"
+
+"No. But the more you know who you are and what you want, the less you let things upset you."
+
+--Lost… | Created at: Thu Jan 19 04:54:37 +0000 2017
+My tweet: RT @_harukimurakami: "Did I do what was right? I didn’t think so. I’d only done what was necessary for me. There’s a big difference." | Created at: Thu Jan 19 04:54:32 +0000 2017
+My tweet: RT @_harukimurakami: “Have you ever seen the shadows of tears, Mr Wind-up Bird? They're nothing like ordinary shadows. Nothing at all." | Created at: Thu Jan 19 04:54:27 +0000 2017
+My tweet: RT @_harukimurakami: “There are — how do you say — things in this world our philosophy cannot account for.” | Created at: Thu Jan 19 04:54:22 +0000 2017
+My tweet: RT @funsize: 2016, it's been real. Here's a quick recap video to close out the year. https://t.co/0FIsBqQJoJ #ayearatfnsz | Created at: Thu Jan 19 04:08:40 +0000 2017
+My tweet: @diiinasaur I need 17 more tweets on my profile for my node.js homework T^T | Created at: Thu Jan 19 02:53:40 +0000 2017
 My tweet: Came back to Twitter for my bootcamp assignment.. #utcodingbootcamp | Created at: Mon Jan 16 17:31:43 +0000 2017
 My tweet: Hello Twitter! #myfirstTweet | Created at: Mon Jan 16 17:30:51 +0000 2017
 My tweet: @lsemly 트윗터는아직익숙하지가않아ㅋㅋ | Created at: Sun Nov 07 19:41:37 +0000 2010
--------------LOGGED DATA: Wed Jan 18 2017 20:34:25 GMT-0600 (CST)-------------
+-------------LOGGED DATA: Wed Jan 18 2017 23:10:22 GMT-0600 (CST)-------------
 USER COMMAND: spotify-this-song
 Artist(s): Ace of Base | Title: The Sign | Preview Link: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null | Album: The Sign (US Album) [Remastered]
 Artist(s): Ace of Base | Title: The Sign | Preview Link: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null | Album: Greatest Hits
--------------LOGGED DATA: Wed Jan 18 2017 20:34:33 GMT-0600 (CST)-------------
+-------------LOGGED DATA: Wed Jan 18 2017 23:10:32 GMT-0600 (CST)-------------
+USER COMMAND: spotify-this-song
+Artist(s):  Dennis Kruissen | Title: Falling In Love | Preview Link: https://p.scdn.co/mp3-preview/7dd48dbaf29c75a9e852fbebf2a33c481444d919?cid=null | Album: Falling In Love
+Artist(s):  Haley Reinhart | Title: Can't Help Falling in Love | Preview Link: https://p.scdn.co/mp3-preview/3c5d078ef84f0e9a89b541a4c1d5436c709c0a13?cid=null | Album: Can't Help Falling in Love
+Artist(s):  Landon Pigg | Title: Falling in Love at a Coffee Shop | Preview Link: https://p.scdn.co/mp3-preview/9a1b26c2a988d84485d6b1587d1ddeae459ffcb0?cid=null | Album: The Boy Who Never
+Artist(s):  Joyce Manor | Title: Falling in Love Again | Preview Link: https://p.scdn.co/mp3-preview/9f9484fbffa625ea5596b17741173a3757cd16b0?cid=null | Album: Never Hungover Again
+Artist(s):  Elvis Presley | Title: Can't Help Falling in Love | Preview Link: https://p.scdn.co/mp3-preview/26e409b39a2da6dc18fab61020c90be2938dc0e9?cid=null | Album: Blue Hawaii
+Artist(s):  2NE1 | Title: Falling in Love | Preview Link: https://p.scdn.co/mp3-preview/804b22c2f980f8dcd94e202ad2923b092eb95079?cid=null | Album: Falling in Love
+Artist(s):  Hearts & Colors | Title: Can't Help Falling In Love | Preview Link: https://p.scdn.co/mp3-preview/ac94d9b639a2133d4077ec6099efa24e9fca7be4?cid=null | Album: Can't Help Falling In Love
+Artist(s):  Us The Duo | Title: Falling In Love | Preview Link: https://p.scdn.co/mp3-preview/c63b60a5e16aff1434b75061ee0e4abcf02f207a?cid=null | Album: No Matter Where You Are
+Artist(s):  Landon Pigg | Title: Falling in Love at a Coffee Shop | Preview Link: https://p.scdn.co/mp3-preview/8c0da682f134458f6e243bc7cebf84ec3134ece0?cid=null | Album: Falling in Love at a Coffee Shop
+Artist(s):  Haley Reinhart | Title: Can't Help Falling in Love | Preview Link: https://p.scdn.co/mp3-preview/de4980f22292880edbd6a69c62d4e8a9a1e0207b?cid=null | Album: Better
+Artist(s):  Ingrid Michaelson | Title: Can't Help Falling In Love (Recorded Live at Daytrotter) | Preview Link: https://p.scdn.co/mp3-preview/aafd5dbdaa1f9489515109c98d44166b6d78c1aa?cid=null | Album: Be OK
+Artist(s):  Christina Grimmie | Title: Can’t Help Falling In Love - The Voice Performance | Preview Link: https://p.scdn.co/mp3-preview/9240fb8ddaf49212178979d4fa9a16beece65721?cid=null | Album: The Complete Season 6 Collection
+Artist(s):  Teen Suicide | Title: falling in love | Preview Link: https://p.scdn.co/mp3-preview/695d683188a232b6cfa7e2d8791d6e1ebc1911c5?cid=null | Album: dc snuff film / waste yrself
+Artist(s):  Ben Rector | Title: Falling In Love | Preview Link: https://p.scdn.co/mp3-preview/c64571eb9d480dd6eeec355efccf73c62d3a3216?cid=null | Album: Something Like This
+Artist(s):  Jonathan Butler | Title: Falling In Love With Jesus | Preview Link: https://p.scdn.co/mp3-preview/8a8d236d5f5f45ddbc89720f8c3c4a9ed676a7e9?cid=null | Album: Falling In Love With Jesus
+Artist(s):  Erik Hassle | Title: Falling In Love Again - Vario Volinski Club Vocal | Preview Link: https://p.scdn.co/mp3-preview/e7b271b60ce89c2406b141a980238c6cabdcec11?cid=null | Album: Falling In Love Again (Vario Volinski Club Vocal)
+Artist(s):  Zion & Lennox | Title: Falling In Love | Preview Link: https://p.scdn.co/mp3-preview/9351cb1db5ddc4722b9a8507db2807b6bae247b4?cid=null | Album: The King Is Back (#LatinIBIZAte)
+Artist(s):  Daniela Andrade | Title: Falling in Love at a Coffee Shop | Preview Link: https://p.scdn.co/mp3-preview/a6c2e8d75ec1f075bdeb49f7ce30ad20c127aed9?cid=null | Album: Covers, Vol. 1
+Artist(s):  Jason Gray | Title: More Like Falling In Love | Preview Link: https://p.scdn.co/mp3-preview/88b15e0cb2e6e17351d284b44e11c29c66c4d450?cid=null | Album: Everything Sad Is Coming Untrue
+Artist(s):  The Jordanaires | Title: Can't Help Falling in Love | Preview Link: https://p.scdn.co/mp3-preview/7ea3cba7b439c252af449571ddbd4c888f085d07?cid=null | Album: Love Songs
+-------------LOGGED DATA: Wed Jan 18 2017 23:10:53 GMT-0600 (CST)-------------
 USER COMMAND: movie-this
 Movie Title: Mr. Nobody
 Year Released: 2009
@@ -18,14 +65,25 @@ Plot: A boy stands on a station platform as a train is about to leave. Should he
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 Rotten Tomatoes Rating: 6.6
 Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
--------------LOGGED DATA: Wed Jan 18 2017 20:34:59 GMT-0600 (CST)-------------
+-------------LOGGED DATA: Wed Jan 18 2017 23:11:15 GMT-0600 (CST)-------------
+USER COMMAND: movie-this
+Movie Title: Magadheera
+Year Released: 2009
+IMDB Rating: 7.7
+Country: India
+Language: Telugu, Tamil, Malayalam, Tamil
+Plot: A bike stuntman recalls his previous life as a warrior, and pursues his love's reincarnation. A sinister figure from their shared past threatens to separate them forever.
+Actors: Kajal Aggarwal, Dev Gill, Srihari, Sarath Babu
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/magadheera_2009/
+-------------LOGGED DATA: Wed Jan 18 2017 23:11:33 GMT-0600 (CST)-------------
 USER COMMAND: do-what-it-says
 Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null | Album: The Hits--Chapter One
 Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null | Album: Millennium
 Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null | Album: 90 Sweet 90s Hits!
 Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=null | Album: The Essential Backstreet Boys
 Artist(s):  Glee Cast | Title: Bye Bye Bye / I Want It That Way (Glee Cast Version) | Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=null | Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Artist(s):  Brittany Howard, Jim James | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null | Album: I Want It That Way
+Artist(s):  Jim James | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null | Album: I Want It That Way
 Artist(s):  Anthem Lights | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=null | Album: Covers Part IV
 Artist(s):  Boyce Avenue | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=null | Album: New Acoustic Sessions, Vol. 3
 Artist(s):  Dynamite Boy | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/9d2f9eac900740ab86cd2bbb67872bf3440787db?cid=null | Album: Punk Goes Pop
@@ -34,31 +92,9 @@ Artist(s):  "Weird Al" Yankovic | Title: Ebay (Parody of "I Want It That Way" by
 Artist(s):  Steel Panther | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f?cid=null | Album: I Want It That Way
 Artist(s):  Landon Austin & Julia Sheer | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=null | Album: I Want It That Way
 Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=null | Album: NKOTBSB
-Artist(s):  Scott Bradlee's Postmodern Jukebox, Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: Selfies on Kodachrome
-Artist(s):  Scott Bradlee's Postmodern Jukebox, Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: PMJ Is For Lovers: The Love Song Collection
+Artist(s):  Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: Selfies on Kodachrome
+Artist(s):  Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: PMJ Is For Lovers: The Love Song Collection
 Artist(s):  FROIDZ | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=null | Album: I Want It That Way
 Artist(s):  Garrett Gardner | Title: I Want It That Way - The Voice Performance | Preview Link: https://p.scdn.co/mp3-preview/cd4996e962aa4e12dc9665a44357f9c708c17185?cid=null | Album: I Want It That Way (The Voice Performance)
 Artist(s):  Patent Pending | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b61cd8b0713737e9880d4fad71e4413c0d26736d?cid=null | Album: Spring Break '99
 Artist(s):  Kidz Bop Kids | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/d73fce47c7725de731bbaeab084a3edaaea8a6ee?cid=null | Album: Kidz Bop
--------------LOGGED DATA: Wed Jan 18 2017 20:40:14 GMT-0600 (CST)-------------
-USER COMMAND: do-what-it-says
-Artist(s): Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null | Album: The Hits--Chapter One
-Artist(s): Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null | Album: Millennium
-Artist(s): Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null | Album: 90 Sweet 90s Hits!
-Artist(s): Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=null | Album: The Essential Backstreet Boys
-Artist(s): Glee Cast | Title: Bye Bye Bye / I Want It That Way (Glee Cast Version) | Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=null | Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Artist(s): Brittany Howard,Jim James | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null | Album: I Want It That Way
-Artist(s): Anthem Lights | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=null | Album: Covers Part IV
-Artist(s): Boyce Avenue | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=null | Album: New Acoustic Sessions, Vol. 3
-Artist(s): Dynamite Boy | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/9d2f9eac900740ab86cd2bbb67872bf3440787db?cid=null | Album: Punk Goes Pop
-Artist(s): "Weird Al" Yankovic | Title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) | Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=null | Album: The Essential Weird Al Yankovic
-Artist(s): Steel Panther | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f?cid=null | Album: I Want It That Way
-Artist(s): "Weird Al" Yankovic | Title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) | Preview Link: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=null | Album: Poodle Hat
-Artist(s): Landon Austin & Julia Sheer | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=null | Album: I Want It That Way
-Artist(s): Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=null | Album: NKOTBSB
-Artist(s): Scott Bradlee's Postmodern Jukebox,Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: Selfies on Kodachrome
-Artist(s): Scott Bradlee's Postmodern Jukebox,Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: PMJ Is For Lovers: The Love Song Collection
-Artist(s): FROIDZ | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=null | Album: I Want It That Way
-Artist(s): Garrett Gardner | Title: I Want It That Way - The Voice Performance | Preview Link: https://p.scdn.co/mp3-preview/cd4996e962aa4e12dc9665a44357f9c708c17185?cid=null | Album: I Want It That Way (The Voice Performance)
-Artist(s): Patent Pending | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b61cd8b0713737e9880d4fad71e4413c0d26736d?cid=null | Album: Spring Break '99
-Artist(s): Kidz Bop Kids | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/d73fce47c7725de731bbaeab084a3edaaea8a6ee?cid=null | Album: Kidz Bop
