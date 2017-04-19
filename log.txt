@@ -98,3 +98,112 @@ Artist(s):  FROIDZ | Title: I Want It That Way | Preview Link: https://p.scdn.co
 Artist(s):  Garrett Gardner | Title: I Want It That Way - The Voice Performance | Preview Link: https://p.scdn.co/mp3-preview/cd4996e962aa4e12dc9665a44357f9c708c17185?cid=null | Album: I Want It That Way (The Voice Performance)
 Artist(s):  Patent Pending | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b61cd8b0713737e9880d4fad71e4413c0d26736d?cid=null | Album: Spring Break '99
 Artist(s):  Kidz Bop Kids | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/d73fce47c7725de731bbaeab084a3edaaea8a6ee?cid=null | Album: Kidz Bop
+-------------LOGGED DATA: Wed Apr 19 2017 15:01:10 GMT-0500 (CDT)-------------
+USER COMMAND: undefined
+-------------LOGGED DATA: Wed Apr 19 2017 15:01:34 GMT-0500 (CDT)-------------
+USER COMMAND: my-tweets
+My tweet: @diiinasaur I was drunk!!! | Created at: Sat Feb 11 18:09:20 +0000 2017
+My tweet: RT @_harukimurakami: Même les rencontres de hasard 
+sont dues à des liens noués 
+dans des vies antérieures. | Created at: Thu Jan 19 05:03:59 +0000 2017
+My tweet: RT @_harukimurakami: “Being alive, if you had to define it, meant emitting a variety of smells.” | Created at: Thu Jan 19 05:03:33 +0000 2017
+My tweet: RT @_harukimurakami: Now that you've said hello, I'm afraid we move right into farewells. Hello, goodbye. | Created at: Thu Jan 19 05:00:20 +0000 2017
+My tweet: RT @_harukimurakami: “Such perfect little circles are impossible to maintain.” | Created at: Thu Jan 19 04:59:12 +0000 2017
+My tweet: RT @_harukimurakami: “There is a slight difference between collecting fifty wine labels and collecting fifty pinball machines.”
+
+Pinball, 1… | Created at: Thu Jan 19 04:59:07 +0000 2017
+My tweet: RT @_harukimurakami: No good news in this chapter. | Created at: Thu Jan 19 04:58:59 +0000 2017
+My tweet: RT @_harukimurakami: “And so, on the surface at least, I had become an ordinary girl again.” | Created at: Thu Jan 19 04:58:56 +0000 2017
+My tweet: RT @_harukimurakami: “She was yours to begin with. Now, maybe, she's where she belongs.” | Created at: Thu Jan 19 04:58:49 +0000 2017
+My tweet: RT @_harukimurakami: “Somewhere, we were struck by lightning. But not the kind of lightning you can see or hear.” | Created at: Thu Jan 19 04:58:41 +0000 2017
+My tweet: RT @_harukimurakami: "I took a gamble and survived." | Created at: Thu Jan 19 04:58:35 +0000 2017
+My tweet: RT @error2046: "Does it get easier?"
+
+"No. But the more you know who you are and what you want, the less you let things upset you."
+
+--Lost… | Created at: Thu Jan 19 04:54:37 +0000 2017
+My tweet: RT @_harukimurakami: "Did I do what was right? I didn’t think so. I’d only done what was necessary for me. There’s a big difference." | Created at: Thu Jan 19 04:54:32 +0000 2017
+My tweet: RT @_harukimurakami: “Have you ever seen the shadows of tears, Mr Wind-up Bird? They're nothing like ordinary shadows. Nothing at all." | Created at: Thu Jan 19 04:54:27 +0000 2017
+My tweet: RT @_harukimurakami: “There are — how do you say — things in this world our philosophy cannot account for.” | Created at: Thu Jan 19 04:54:22 +0000 2017
+My tweet: RT @funsize: 2016, it's been real. Here's a quick recap video to close out the year. https://t.co/0FIsBqQJoJ #ayearatfnsz | Created at: Thu Jan 19 04:08:40 +0000 2017
+My tweet: @diiinasaur I need 17 more tweets on my profile for my node.js homework T^T | Created at: Thu Jan 19 02:53:40 +0000 2017
+My tweet: Came back to Twitter for my bootcamp assignment.. #utcodingbootcamp | Created at: Mon Jan 16 17:31:43 +0000 2017
+My tweet: @lsemly 트윗터는아직익숙하지가않아ㅋㅋ | Created at: Sun Nov 07 19:41:37 +0000 2010
+My tweet: Hello Twitter! #myfirstTweet | Created at: Mon Jan 16 17:30:51 +0000 2017
+-------------LOGGED DATA: Wed Apr 19 2017 15:02:35 GMT-0500 (CDT)-------------
+USER COMMAND: spotify-this-song
+Artist(s):  Mr Gabriel | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/e0108094dce5c08294e25575cd2fea5c90727c77?cid=null | Album: Starlight
+Artist(s):  Muse | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/f7a1b8a270f310e43ced2720c9af5f29f6476b79?cid=null | Album: Black Holes And Revelations (Updated 09 version)
+Artist(s):  Jason Walker | Title: Echo | Preview Link: https://p.scdn.co/mp3-preview/681364055bc43c29cbeb553af0c7656300f82967?cid=null | Album: Midnight Starlight
+Artist(s):  Starset | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/4e84bb7a4002a7b4e82167fe0dc8dbce78624657?cid=null | Album: Vessels
+Artist(s):  Miles Davis | Title: Stella By Starlight | Preview Link: https://p.scdn.co/mp3-preview/a4430030bca4c02cf569b429f8776e70e6aafacb?cid=null | Album: Kind Of Blue (Legacy Edition)
+Artist(s):  Dean | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/302b31aa13ad7fbb1252759582dbf5ed8e01d995?cid=null | Album: Why - The 2nd Mini Album
+Artist(s):  Serayah | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/4dc98af986f8861a0927ad7e1efebc4e458e5c4f?cid=null | Album: Starlight
+Artist(s):  Michel Simone | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/2b1f3c5f4e1f14b2a2104b6d815bc9735e1d44f2?cid=null | Album: Twilight Piano Moods
+Artist(s):  Neverest | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/657fa830e1c3e63796fbe5b71e8ee8cc65ba7fce?cid=null | Album: Starlight
+Artist(s):  Deep Sleep Music Collective | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/66832f086e3f79caed772ed548f1f07676f02590?cid=null | Album: Sleeping Music: Calm Music to Help You Sleep, Natural Sleep Aid and Relaxing Piano for Sleep Music
+Artist(s):  Kolidescopes | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/4e9ebf47974cd5b0e236aa97bd2f98582323ebd6?cid=null | Album: Starlight
+Artist(s):  Joe Lovano | Title: Stella By Starlight | Preview Link: https://p.scdn.co/mp3-preview/8ed1bdb1c7abbd149ffe3699b5f9730f4d52ef6e?cid=null | Album: I'm All For You (Ballad Songbook)
+Artist(s):  loren north | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/a47efa894a06121f5b6576c427fa51344c8962d9?cid=null | Album: Starlight - EP
+Artist(s):  Yazz | Title: Starlight (Hakeem Version) | Preview Link: https://p.scdn.co/mp3-preview/255174c501fdabe29d406d9cdee4901ac6f37056?cid=null | Album: Starlight (Hakeem Version)
+Artist(s):  Tonight Alive | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/792631363915a01874a9925ab22036ff2cee11c6?cid=null | Album: What Are You So Scared Of?
+Artist(s):  Jason Walker | Title: Kiss Me | Preview Link: https://p.scdn.co/mp3-preview/45154720984a26b73c371337ed271c73c7e0b230?cid=null | Album: Midnight Starlight
+Artist(s):  Flux Pavilion | Title: Starlight | Preview Link: https://p.scdn.co/mp3-preview/049ac4b34476d63cb62dfc6f83ad391dc73aaf7f?cid=null | Album: Blow The Roof
+Artist(s):  Jason Walker | Title: Shouldn't Be a Good In Goodbye | Preview Link: https://p.scdn.co/mp3-preview/7bb399c989f5cfbb8ebc0986a913dd19b3ee7ab8?cid=null | Album: Midnight Starlight
+Artist(s):  The Smashing Pumpkins | Title: By Starlight | Preview Link: https://p.scdn.co/mp3-preview/0fbb9a187a743f207c95df776873ff33deb13877?cid=null | Album: Mellon Collie and the Infinite Sadness (2012 - Remaster)
+Artist(s):  Tony Tonite | Title: Starlight - Radio Mix | Preview Link: https://p.scdn.co/mp3-preview/b8841ab7be28e31bdeac00d220d810d783b83319?cid=null | Album: Starlight
+-------------LOGGED DATA: Wed Apr 19 2017 15:03:19 GMT-0500 (CDT)-------------
+USER COMMAND: movie-this
+Movie Title: Star Wars: Episode IV - A New Hope
+Year Released: 1977
+IMDB Rating: 8.7
+Country: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the galaxy from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/star_wars/
+-------------LOGGED DATA: Wed Apr 19 2017 15:03:47 GMT-0500 (CDT)-------------
+USER COMMAND: movie-this
+Movie Title: No Man
+Year Released: 2013
+IMDB Rating: N/A
+Country: UK
+Language: English
+Plot: Philip Hughes Junior reads a family member's diary detailing their involvement in the events of the football truce during World War I.
+Actors: Elliot Ryan, Julian Roberts, Anthony May, Albert Pijuan
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: N/A
+-------------LOGGED DATA: Wed Apr 19 2017 15:04:01 GMT-0500 (CDT)-------------
+USER COMMAND: movie-this
+Movie Title: Die Hard
+Year Released: 1988
+IMDB Rating: 8.2
+Country: USA
+Language: English, German, Italian
+Plot: John McClane, officer of the NYPD, tries to save his wife Holly Gennaro and several others that were taken hostage by German terrorist Hans Gruber during a Christmas party at the Nakatomi Plaza in Los Angeles.
+Actors: Bruce Willis, Bonnie Bedelia, Reginald VelJohnson, Paul Gleason
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/die_hard/
+-------------LOGGED DATA: Wed Apr 19 2017 15:04:21 GMT-0500 (CDT)-------------
+USER COMMAND: do-what-it-says
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null | Album: The Hits--Chapter One
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=null | Album: Millennium
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=null | Album: 90 Sweet 90s Hits!
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=null | Album: The Essential Backstreet Boys
+Artist(s):  Glee Cast | Title: Bye Bye Bye / I Want It That Way (Glee Cast Version) | Preview Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=null | Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s):  Jim James | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/46c088f198268278c8498768e50f1423459b2ed7?cid=null | Album: I Want It That Way
+Artist(s):  Anthem Lights | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=null | Album: Covers Part IV
+Artist(s):  Destiny Jenkins | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=null | Album: I Want It That Way
+Artist(s):  Dynamite Boy | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/9d2f9eac900740ab86cd2bbb67872bf3440787db?cid=null | Album: Punk Goes Pop
+Artist(s):  Boyce Avenue | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=null | Album: New Acoustic Sessions, Vol. 3
+Artist(s):  "Weird Al" Yankovic | Title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) | Preview Link: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=null | Album: Poodle Hat
+Artist(s):  "Weird Al" Yankovic | Title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys) | Preview Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=null | Album: The Essential Weird Al Yankovic
+Artist(s):  Steel Panther | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/b71df9d016478a90c09a96ce96c91a65c883f33f?cid=null | Album: I Want It That Way
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=null | Album: NOW That's What I Call 90s Pop
+Artist(s):  Landon Austin & Julia Sheer | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=null | Album: I Want It That Way
+Artist(s):  Backstreet Boys | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=null | Album: NKOTBSB
+Artist(s):  Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: Selfies on Kodachrome
+Artist(s):  Shoshana Bean | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=null | Album: PMJ Is For Lovers: The Love Song Collection
+Artist(s):  Joseph Vincent | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=null | Album: I Want It That Way
+Artist(s):  FROIDZ | Title: I Want It That Way | Preview Link: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=null | Album: I Want It That Way

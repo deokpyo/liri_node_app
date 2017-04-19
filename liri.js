@@ -154,3 +154,9 @@ function logfile(data) {
         }
     });
 }
+
+function Weather(name, place, date) {
+    this.name = name;
+    this.place = place;
+    this.date = date;
+}
